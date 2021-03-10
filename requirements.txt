@@ -1,0 +1,7 @@
+pyaudio==0.2.11
+torch==1.7.1+cpu
+torch-scatter==2.0.5
+SpeechRecognition==3.8.1
+transformers==4.3.3
+numpy==1.18.5
+pandas==1.1.5
