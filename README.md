@@ -4,5 +4,5 @@
 ## Installation
 1. Clone this repo `https://github.com/suryakunala/Data-Retrieval-Through-Speech-Query.git`
 2. Install all the requirements(refer to `requirements.txt`)
-4. Run jupyter Notebook
+4. Run jupyter Notebook in you pc
 5. Open the `Final.ipynb` notebook and Run
